@@ -19,16 +19,13 @@
 
 # What Would We Do Without Emojis??!! :wink:
 
+:male_sign:
+:arrow_right:
+:female_sign:
 :fox_face:
 :fire:
-
-:male_sign: 
-:infinity:
-:female_sign:
-
-:heart:
-:orange_heart:
-:yellow_heart:
-:green_heart:
-:blue_heart:
-:purple_heart:
+:virgo:
+:leo:
+:aquarius:
+:rainbow:
+:unicorn:
